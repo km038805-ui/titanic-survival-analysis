@@ -1,0 +1,33 @@
+{
+  "raw_rows": 891,
+  "cleaned_rows": 891,
+  "missing_age": 177,
+  "missing_cabin_dropped_column": 687,
+  "overall_survival_rate_pct": 38.38,
+  "survived_count": 342,
+  "survival_by_sex_pct": {
+    "female": 74.2,
+    "male": 18.89
+  },
+  "survival_by_class_pct": {
+    "1": 62.96,
+    "2": 47.28,
+    "3": 24.24
+  },
+  "survival_by_age_group_pct": {
+    "0-12": 57.97,
+    "13-18": 42.86,
+    "19-35": 35.33,
+    "36-60": 40.0,
+    "60+": 22.73
+  },
+  "survival_by_embarked_pct": {
+    "C": 55.36,
+    "Q": 38.96,
+    "S": 33.7
+  },
+  "avg_fare_survived": 48.4,
+  "avg_fare_died": 22.12,
+  "avg_age_survived": 28.34,
+  "avg_age_died": 30.63
+}
